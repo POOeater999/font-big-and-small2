@@ -1,0 +1,35 @@
+body {
+    background:url("https://th.bing.com/th/id/OIP.Bsyppjp1rF8CqGA2M5xSGwHaEo?w=300&h=187&c=7&r=0&o=5&pid=1.7") ;
+    background-size:1510px;
+}
+
+.header {
+    width:100%;
+    color: rgb(145, 0, 0);
+    font-weight: 999;
+}
+
+ hr {
+    border-color:  rgb(145, 0, 0);
+    border-width: 5px;
+
+}
+
+#footer {
+    bottom: 10;
+    background-color: blueviolet;
+    position: fixed;
+    width: 10%;
+    font-size: 20px;
+    border-radius: 20px;
+    text-align: center;
+    margin-left: 850px;
+}
+
+video {
+    margin-top: 50;
+}
+
+canvas {
+    margin-top: 50;
+}
